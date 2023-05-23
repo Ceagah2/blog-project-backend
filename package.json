@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "A blog backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceagah2/blog-project-backend.git"
+  },
+  "keywords": [
+    "backend",
+    "blog",
+    "project"
+  ],
+  "author": "Carlos Henrique (Ceagah)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ceagah2/blog-project-backend/issues"
+  },
+  "homepage": "https://github.com/Ceagah2/blog-project-backend#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "tsc": "^2.0.4",
+    "typescript": "^5.0.4"
+  }
+}
