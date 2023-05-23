@@ -37,8 +37,8 @@ My goals for it is :
 To create this , i'll use :
 - Node,
 - Typescript
-- TypeOrm / Prisma
-
+- Prisma
+- SQLite
 
 ## NOTE
 This is a backend playground, that i'm creating this to learn backend. This code can be VERY VERY messy, but it will be refactored and updated since i learn how to do it. 
